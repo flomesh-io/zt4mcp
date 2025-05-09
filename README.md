@@ -149,6 +149,12 @@ These chains ensure security, compliance, and observability at both endpoints of
 
 ## Features
 
+* Local RESTful API for convenient and rapid development of MCP Runner and AI Agent
+* Cross-platform runtime capability, write once and run anywhere
+* Network traversal capability, enabling clients to penetrate firewalls and other intermediate network devices, thereby improving development efficiency and reducing management complexity
+* mTLS-based network communication for enhanced security; identity authentication based on mTLS certificates
+* Fine-grained access control with customizable security management policies
+
 ## Documentation
 
 ## Quick Start
