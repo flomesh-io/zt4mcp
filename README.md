@@ -23,7 +23,7 @@
 # zt4mcp (Zero Trust for MCP)
 
 `zt4mcp` is ：
-* A universal MCP Client capable of running on various devices and platforms, including PCs, mobile phones, IoT devices, servers, and cloud VPCs.
+* An universal MCP Client capable of running on various devices and platforms, including PCs, mobile phones, IoT devices, servers, and cloud VPCs.
 * A framework for rapid AI application development, with the built-in chat tool serving as a prime example.
 * A simple and easy-to-use Zero Trust framework that provides an end-to-end secure AI runtime environment.
 
